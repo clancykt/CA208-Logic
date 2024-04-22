@@ -1,6 +1,6 @@
 # CA208-Logic
 
-** completed in 2nd year**
+**completed in 2nd year**
 
 In this module we learned the basics of Logic in programming and how to program in PROLOG.
 Some of the skills gained upon completion of this module include:
